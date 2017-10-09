@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "548777668399",
+    "firebase_url": "https://socialwallpaperapp.firebaseio.com",
+    "project_id": "socialwallpaperapp",
+    "storage_bucket": "socialwallpaperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548777668399:android:baa2a8235e0afcb9",
+        "android_client_info": {
+          "package_name": "trainedge.social_wallpaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548777668399-6lljvepj1h50s6ra6kav96avufu923th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.social_wallpaper_app",
+            "certificate_hash": "04050b1a792042ed2d19f870c60ba4579e3c8821"
+          }
+        },
+        {
+          "client_id": "548777668399-lpj095bq3bqulnjhmvi5egena6uffpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmsYJSb6mG1QFIzrKiO73kdTJs4BBvzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548777668399-lpj095bq3bqulnjhmvi5egena6uffpql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
